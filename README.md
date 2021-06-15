@@ -17,25 +17,25 @@
 <h3> Get a student (top:API, bottom:JSP) </h3>
 <img src="./images/viewStudent_postman.png">
 <hr />
-<img src="./images/viewStudent_postman_jsp.png">
+<img src="./images/viewStudent_jsp.png">
 
 
 <hr />
 <h3> Post new student (top:API, bottom:JSP) </h3>
 <img src="./images/addStudent_postman.png">
 <hr />
-<img src="./images/addStudent_postman_jsp.png">
+<img src="./images/addStudent_jsp.png">
 
 
 <hr />
 <h3> Update a student (top:API, bottom:JSP) </h3>
 <img src="./images/editStudent_postman.png">
 <hr />
-<img src="./images/editStudent_postman_jsp.png">
+<img src="./images/editStudent_jsp.png">
 
 
 <hr />
 <h3> Delete a student (top:API, bottom:JSP) </h3>
 <img src="./images/deleteStudent_postman.png">
 <hr />
-<img src="./images/deleteStudent_postman_jsp.png">
+<img src="./images/deleteStudent_jsp.png">
