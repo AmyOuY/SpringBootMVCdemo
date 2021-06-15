@@ -9,6 +9,6 @@
 <hr />
 <h3> Get all students </h3>
 <p>
-<img src="./images/allStudents_postman.png" width="400">
-<img src="./images/allStudents_jsp.png" width="400">
+<img src="./images/allStudents_postman.png" width="500">
+<img src="./images/allStudents_jsp.png" width="500">
 </p>
