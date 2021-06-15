@@ -7,8 +7,7 @@
 
 
 <hr />
-<h3> Get all students </h3>
-<p>
-<img src="./images/allStudents_postman.png" width="600">
-<img src="./images/allStudents_jsp.png" width="600">
-</p>
+<h3> Get all students (top:API, bottom:JSP) </h3>
+<img src="./images/allStudents_postman.png">
+<img src="./images/allStudents_jsp.png">
+
